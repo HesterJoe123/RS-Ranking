@@ -1,36 +1,24 @@
 {
   "symbols": [
     {
-      "s": "ORIANA",
-      "f": ["ORIANA"]
+      "s": "NSE:ORIANA",
+      "f": ["NSE:ORIANA"]
     },
     {
-      "s": "HITECHGEAR",
-      "f": ["HITECHGEAR"]
+      "s": "NSE:HITECHGEAR",
+      "f": ["NSE:HITECHGEAR"]
     },
     {
-      "s": "TRIL",
-      "f": ["TRIL"]
+      "s": "NSE:TRIL",
+      "f": ["NSE:TRIL"]
     },
     {
-      "s": "DOLATALGO",
-      "f": ["DOLATALGO"] 
+      "s": "NSE:DOLATALGO",
+      "f": ["NSE:DOLATALGO"]
     },
     {
-      "s": "KIRLOSBROS",
-      "f": ["KIRLOSBROS"]
-    },
-    {
-      "s": "GET_D",
-      "f": ["GET_D"]
-    },
-    {
-      "s": "POWERINDIA",
-      "f": ["POWERINDIA"]
-    },
-    {
-      "s": "SHAKTIPUMP",
-      "f": ["SHAKTIPUMP"]
+      "s": "NSE:KIRLOSBROS",
+      "f": ["NSE:KIRLOSBROS"]
     }
   ]
 }
