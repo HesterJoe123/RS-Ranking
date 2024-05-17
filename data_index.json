@@ -1,0 +1,12 @@
+{
+  "symbols": [
+    {
+      "s": "STOCKNAME1",
+      "f": ["STOCKNAME1.csv"]
+    },
+    {
+      "s": "STOCKNAME2", 
+      "f": ["STOCKNAME2.csv"]
+    }
+  ]
+}
