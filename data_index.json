@@ -1,12 +1,36 @@
 {
   "symbols": [
     {
-      "s": "STOCKNAME1",
-      "f": ["STOCKNAME1.csv"]
+      "s": "ORIANA",
+      "f": ["ORIANA"]
     },
     {
-      "s": "STOCKNAME2", 
-      "f": ["STOCKNAME2.csv"]
+      "s": "HITECHGEAR",
+      "f": ["HITECHGEAR"]
+    },
+    {
+      "s": "TRIL",
+      "f": ["TRIL"]
+    },
+    {
+      "s": "DOLATALGO",
+      "f": ["DOLATALGO"] 
+    },
+    {
+      "s": "KIRLOSBROS",
+      "f": ["KIRLOSBROS"]
+    },
+    {
+      "s": "GET_D",
+      "f": ["GET_D"]
+    },
+    {
+      "s": "POWERINDIA",
+      "f": ["POWERINDIA"]
+    },
+    {
+      "s": "SHAKTIPUMP",
+      "f": ["SHAKTIPUMP"]
     }
   ]
 }
